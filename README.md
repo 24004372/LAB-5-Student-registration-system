@@ -1,5 +1,8 @@
 # Exp - 5 STUDENT ENROLLMENT SYSTEM
 
+# Name: SHRIRAM VR
+# Reg.No: 212224040314
+
 # Aim
 To study the problem statement, SRS document and draw all the UML diagrams of a Student Enrollment Management System.
 
